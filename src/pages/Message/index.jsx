@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Sidebar from "../../Components/Sidebar";
 import Header from "../../Components/Header";
 import ScoutList from "./ScoutList";
-import ChatWindow from "./ChatWindow";
+import ChatWindow from "./chatWindow";
 
 const mockScouts = [
   {
